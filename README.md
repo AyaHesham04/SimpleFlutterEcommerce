@@ -27,7 +27,7 @@ A responsive and modern e-commerce mobile application built using Flutter. This 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/flutter-ecommerce-app.git
+   git clone https://github.com/AyaHesham04/SimpleFlutterEcommerce.git
    cd flutter-ecommerce-app
 ````
 
