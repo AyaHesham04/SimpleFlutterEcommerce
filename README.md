@@ -1,16 +1,60 @@
-# flutter_ecommerce
+# 🛒 Flutter E-commerce App
 
-A new Flutter project.
+A responsive and modern e-commerce mobile application built using Flutter. This project simulates a shopping experience with categorized products, product detail pages, and interactive UI components.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- 📱 Clean and responsive UI
+- 🔍 Search UI
+- 🗂 Product categories
+- 🛍 Best-selling product section
+- 🧾 Detailed product pages with:
+  - Price & discount
+  - Ratings & reviews
+  - Color & size selection
+  - Quantity selector
+- ❤️ Favorite toggle
+- 📦 Add to cart and Buy Now flow (UI only)
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Framework:** Flutter
+- **Language:** Dart
+- **State Management:** Stateful widgets
+- **UI Toolkit:** Material Design
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/flutter-ecommerce-app.git
+   cd flutter-ecommerce-app
+````
+
+2. Get dependencies:
+
+   ```bash
+   flutter pub get
+   ```
+
+3. Run the app:
+
+   ```bash
+   flutter run
+   ```
+
+## 📁 Folder Structure
+
+```
+lib/
+├── homepage.dart
+├── details.dart
+└── main.dart
+assets/
+└── images/
+```
+
+## 📌 Note
+
+This project focuses on UI and client-side logic. Backend integration (cart, authentication, payments) is currently not implemented.
+
